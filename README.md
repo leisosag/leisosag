@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hola! Soy Leila 👩‍💻
 
-<!--
-**leisosag/leisosag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrolladora front end y programadora autodidacta, próximamente estudiante de ingeniería en informática. 
+Empecé a programar por curiosidad y me quedé porque me encanta poder solucionar problemas con tecnología.
+Estoy ansiosa por aprender y seguir creciendo.  
 
-Here are some ideas to get you started:
+****
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Mi stack actual
+![Stack actual](https://github.com/leisosag/leisosag/blob/main/actual.png)
+
+****
+
+### 🌱 Estoy aprendiendo
+![estoy aprendiendo](https://github.com/leisosag/leisosag/blob/main/aprendiendo.png)
+****
+
+### 🔭 Mis proyectos personales
+##### Sinergia
+https://sinergia.netlify.app
+
+##### Compartir pastelería
+https://compartirpasteleria.netlify.app
+
+
+##### Golosinas con onda
+https://golosinascononda.netlify.app
+
+****
+
+### Hablemos
+✉ leilasosag@gmail.com
+🤝 https://www.linkedin.com/in/leila-sosa-gonzalez/
