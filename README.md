@@ -1,7 +1,7 @@
 # Hola! Soy Leila 👩‍💻
 
 Soy desarrolladora front end y programadora autodidacta, próximamente estudiante de ingeniería en informática.  
-Empecé a programar por curiosidad y me quedé porque me encanta poder solucionar problemas con tecnología.  
+Empecé a programar por curiosidad y me encanta poder solucionar problemas con tecnología.  
 Estoy ansiosa por aprender y seguir creciendo.  
 
 
