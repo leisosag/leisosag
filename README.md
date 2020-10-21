@@ -17,10 +17,7 @@ Estoy ansiosa por aprender y seguir creciendo.
 
 ## 🔭 Mis proyectos personales
 ⚙ https://sinergia.netlify.app
-
 🎂 https://compartirpasteleria.netlify.app
-
-
 🍭 https://golosinascononda.netlify.app
 
 ****
