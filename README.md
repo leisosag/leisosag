@@ -1,6 +1,6 @@
 # Hola! Soy Leila 👩‍💻
 
-Soy desarrolladora front end y programadora autodidacta, próximamente estudiante de ingeniería en informática.  
+Soy desarrolladora front end, próximamente estudiante de ingeniería en informática.  
 Empecé a programar por curiosidad y me encanta poder solucionar problemas con tecnología.  
 Estoy ansiosa por aprender y seguir creciendo.  
 
