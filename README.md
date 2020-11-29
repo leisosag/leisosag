@@ -21,5 +21,5 @@ Estoy ansiosa por aprender y seguir creciendo.
 ## 👋 Hablemos
 
 ✉ leilasosag@gmail.com  
-🤝 https://www.linkedin.com/in/leila-sosa-gonzalez/
+🤝 https://www.linkedin.com/in/leila-sosa-gonzalez/  
 📂 https://leilasosag.web.app/
