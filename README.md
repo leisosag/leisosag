@@ -12,11 +12,12 @@ Estoy ansiosa por aprender y seguir creciendo.
 
 ![estoy aprendiendo](https://github.com/leisosag/leisosag/blob/main/aprendiendo2.png)
 
-## 🔭 Mis proyectos personales
+## 🔭 Proyectos
 
 ⚙ https://sinergia.netlify.app  
-🎂 https://compartirpasteleria.netlify.app  
-🍭 https://golosinascononda.netlify.app
+🔍 https://pokedexbylei.netlify.app/  
+📺 https://babytube.netlify.app/  
+💱 https://bityuya.netlify.app/
 
 ## 👋 Hablemos
 
